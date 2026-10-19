@@ -1,5 +1,7 @@
 # 🎬 QwenPaw Studio Core（多模态生成控制台）
 
+> 我想让你听见我、看见我。
+
 [![license](https://img.shields.io/badge/license-TBD-lightgrey.svg)]()
 
 QwenPaw 多模态生成控制台——为 Agent 提供 **TTS、图像、视频生成**的统一网关与任务队列，作为 Creator 等上层创作工作流的底层能力层。
