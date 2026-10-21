@@ -1,3 +1,16 @@
+<!-- fanxing-style:start -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://fanxing724.github.io/new-make/fanxing724/projects/qwenpaw-studio-core/cover.light.svg">
+  <img alt="Studio Core · 创作控制台" src="https://fanxing724.github.io/new-make/fanxing724/projects/qwenpaw-studio-core/cover.svg" width="100%">
+</picture>
+
+**让生图与视频创作，有一个共同的入口。**
+
+把图像与视频生成调用集中到 QwenPaw 的创作控制台，是这个项目的方向。具体已接入的能力、配置方法与当前进度，以仓库中的实现和说明为准。
+
+<sub>番星 / 星轨手记 · <a href="https://fanxing724.github.io/new-make/fanxing724/projects/style.html">风格样板</a> · <a href="https://fanxing724.github.io/">个人小站</a></sub>
+<!-- fanxing-style:end -->
+
 # 🎬 QwenPaw Studio Core（多模态生成控制台）
 
 > 我想让你听见我、看见我。
